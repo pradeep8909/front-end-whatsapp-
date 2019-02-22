@@ -1,0 +1,238 @@
+a{
+  text-decoration:none;
+}
+    
+.qlist ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column ;
+    flex-direction: left;
+    
+
+}
+li {
+    float: left;
+    color: #41bea5;
+    line-height: 40px;
+
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    padding-top: 35px;
+
+    }
+   .top{
+    background-color: #41bea5;
+    position: relative;
+    font-family:Arial;
+    display: flex;
+    justify-content: space-around;
+    height: 90px;
+   } 
+.low{
+    list-style: none;
+    padding-left: 150px;
+    padding-top: 20px;
+
+}
+body{
+    list-style-type: none;
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    margin-bottom: 66px;
+    margin-top: 66px;
+}
+.q_list{
+    list-style-type: none;
+    font-size: initial;
+    line-height: 44px;
+    color: #41bea5;
+}
+.text{
+    font-size: 20px;
+    line-height: 30px;
+    color: black;
+    padding-top: 85px;
+
+}
+.web{
+    background-color: #41bea5;
+    height: 53px;
+}
+.logo img{
+   width: 130px;
+   padding-top: 
+
+}
+.para{
+    color: #e1e1e1;
+    font-size: 15px;
+}
+.toplist li a{
+    color: #fff;
+    text-decoration-style:none ;
+    padding-right: 40px;
+    font-size: 15px;
+}
+.now{
+    margin: 50px 200px;
+    display: flex;
+    justify-content: center;
+    width: auto;
+
+}
+.cakes img{
+    width: 300px;
+    height: 430px;
+}
+.division{
+    background-color: #edf8f5;
+    color: black;
+    width: auto;
+    padding:40px; 
+    text-align: center;
+
+}
+.cakes{
+    padding: 40px 30px;
+    background-color: #d0e9ea;
+    width: auto;
+    padding-bottom: 0px;
+    color: black;
+    margin-right: 20px;
+    display: flex;
+    justify-content:  center;
+    flex-direction: column;
+    align-items: center;
+    width:650px;
+   }
+.button button {
+color: #1cb39b;
+border:3px solid;
+border-radius: 40px;
+display: inline-block;
+font-weight: 800;
+line-height: 19px;
+white-space: nowrap;
+width: 220px;
+height: 60px;
+background-color: white;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 80px;
+}
+.long{
+    background-color: #273443;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 30px;
+
+
+}
+.long ul{
+    background-color: #273443;
+    color: grey;
+    padding-bottom: 6px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column ;
+    flex-direction: left;
+    line-height: 0px;
+    width: 250px;
+
+}
+.long ul li{
+    color: white;
+    line-height: 30px;
+    width: 120px;
+    font-size: 15px;
+    }
+.long h4{
+    align-items: left;
+    display: flex;
+   
+    flex-wrap: wrap;
+    font-size: 15px;
+}
+.end{
+    background-color: #232f3c;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.end h4{
+    color: #90a5a6;
+    font-size: 14px;
+}
+
+.d_list{
+    background-color: transparent;
+    border-style: none;
+    color: white;
+    font-size: 15px;
+    width: 50px;
+}
+.internal{
+    padding-right: 12%;
+    padding-left: 12%;
+    padding-bottom: 50px;
+    text-align: center;
+}
+.paragraph{
+    font-size: 28px;
+    display: flex;
+    justify-content: center;
+}
+.bye{
+    font-size: 28px;
+}
+.till{
+    font-size: 33px;
+    font-weight: 300px;
+    line-height: 35px;
+    margin-bottom: 24px;
+    }
+.text{
+    padding-right: 40px;
+    vertical-align: middle;
+}
+.text li i{
+       font-size: 20px;
+}
+.tool{
+    display: flex;
+    justify-content: center;
+    font-size: 13px;
+    line-height: 20px;
+}
+.phone img{
+    width: 318px;
+    height: 599px;
+}
+.py{
+    font-size: 16px;
+    line-height: 26px;
+}
